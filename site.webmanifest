@@ -1,0 +1,10 @@
+{
+  "name": "Leka",
+  "short_name": "Leka",
+  "description": "AI-powered money coaching for smarter budgeting, saving, and everyday financial habits.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff9ec",
+  "theme_color": "#073d2c",
+  "icons": [{"src":"/leka-logo.png","sizes":"192x192","type":"image/png"}]
+}
